@@ -1,0 +1,81 @@
+Región,Departamento,Municipio,Población,Hogares con acceso a internet,Penetración de internet (%),Uso de internet,Dispositivos móviles,Uso de teléfonos inteligentes (%),Acceso a computadores (%),Uso de redes sociales (%),Compras online (%),Nivel educativo,Edad promedio,Ingresos promedio
+Amazonía,Amazonas,Leticia,43000,10000,23,1.5,1.2,70,5,80,15,8,30,1000000
+Amazonía,Caquetá,Florencia,150000,30000,20,1,1,65,5,75,10,9,31,1200000
+Amazonía,Putumayo,Mocoa,50000,10000,20,1,1,60,5,70,10,8,29,1000000
+Amazonía,Vaupés,Mitú,30000,5000,17,1,1,50,2,55,5,6,28,800000
+Andina,Antioquia,Medellín,2500000,1200000,48,2.5,1.8,85,15,90,30,11,34,2000000
+Andina,Boyacá,Tunja,150000,50000,33,1.5,1.2,70,8,85,20,10,32,1300000
+Andina,Caldas,Manizales,400000,150000,38,2,1.5,75,12,88,25,10,33,1500000
+Andina,Cundinamarca,Bogotá,8000000,5000000,63,3,2.2,90,20,95,40,12,36,2500000
+Caribe,Atlántico,Barranquilla,1200000,600000,50,2,1.6,80,12,88,25,10,32,1600000
+Caribe,Bolívar,Cartagena,900000,400000,44,1.8,1.4,75,10,85,20,9,31,1300000
+Caribe,Cesar,Valledupar,400000,100000,25,1.2,1,60,5,75,15,8,30,1000000
+Caribe,Córdoba,Montería,450000,150000,33,1.5,1.2,65,8,80,18,9,31,1100000
+Insular,San Andrés,San Andrés,70000,40000,57,3,2,90,20,95,50,12,33,1800000
+Insular,Providencia,Providencia,5000,3000,60,3,2,85,15,90,40,11,32,1600000
+Orinoquía,Arauca,Arauca,70000,20000,29,1.2,1,60,5,70,10,8,29,900000
+Orinoquía,Casanare,Yopal,120000,30000,25,1,1,60,5,70,10,8,30,900000
+Orinoquía,Meta,Villavicencio,400000,100000,25,1.2,1,60,5,70,10,8,30,900000
+Pacífica,Cauca,Popayán,250000,80000,32,1,1,65,5,75,15,9,31,1100000
+Pacífica,Chocó,Quibdó,150000,40000,27,1,1,55,3,65,10,7,29,800000
+Pacífica,Nariño,Pasto,400000,120000,30,1.5,1.2,60,5,70,15,9,31,1000000
+Amazonía,Amazonas,Puerto Nariño,3000,500,17,1,1,45,2,50,5,6,27,700000
+Amazonía,Caquetá,San Vicente del Caguán,30000,5000,17,1,1,50,2,55,5,6,28,800000
+Amazonía,Putumayo,Puerto Asís,35000,7000,20,1,1,55,3,60,10,7,28,900000
+Amazonía,Vaupés,Caruru,2000,300,15,1,1,40,1,45,5,5,26,600000
+Andina,Antioquia,Envigado,200000,100000,50,2.5,1.8,80,12,88,25,10,33,1800000
+Andina,Boyacá,Chiquinquirá,50000,15000,30,1.2,1,65,5,75,15,9,31,1000000
+Andina,Caldas,Pereira,450000,180000,40,2,1.5,75,10,85,20,10,32,1600000
+Andina,Cundinamarca,Soacha,500000,250000,50,2,1.5,75,10,85,20,10,32,1500000
+Caribe,Atlántico,Sabanalarga,100000,40000,40,1.2,1,60,5,75,15,8,30,1000000
+Caribe,Bolívar,Magangué,100000,30000,30,1,1,55,3,65,10,8,29,900000
+Caribe,Cesar,Aguachica,80000,20000,25,1,1,55,3,65,10,7,28,800000
+Caribe,Córdoba,Sincelejo,250000,80000,32,1.2,1,60,5,70,15,8,30,900000
+Insular,San Andrés,Providencia,4000,2500,63,3,2,85,15,90,40,11,32,1500000
+Insular,Providencia,Santa Catalina,1000,600,60,2.5,2,80,12,88,35,10,31,1400000
+Orinoquía,Arauca,Tame,40000,10000,25,1,1,55,3,65,10,7,28,800000
+Orinoquía,Casanare,Paz de Ariporo,25000,6000,24,1,1,55,3,65,10,7,28,700000
+Orinoquía,Meta,Puerto López,40000,8000,20,1,1,50,2,55,5,6,27,700000
+Pacífica,Cauca,Santander de Quilichao,100000,30000,30,1,1,60,5,70,10,8,29,900000
+Pacífica,Chocó,Istmina,20000,4000,20,1,1,50,2,55,5,6,27,700000
+Pacífica,Nariño,Ipiales,70000,20000,29,1.2,1,60,5,70,10,8,29,900000
+Amazonía,Amazonas,Tarapacá,2000,250,13,1,1,40,1,45,5,5,26,500000
+Amazonía,Caquetá,Curillo,5000,800,16,1,1,45,2,50,5,6,27,600000
+Amazonía,Putumayo,Valle del Guamuez,20000,3000,15,1,1,45,2,50,5,6,27,600000
+Amazonía,Vaupés,Pacoa,1000,100,10,1,1,35,1,40,5,4,25,400000
+Andina,Antioquia,Rionegro,150000,40000,27,1.5,1.2,60,5,70,15,8,30,1000000
+Andina,Boyacá,Nobsa,5000,1000,20,1,1,50,2,55,5,6,27,700000
+Andina,Caldas,Marmato,10000,2000,20,1,1,50,2,55,5,6,27,700000
+Andina,Cundinamarca,La Calera,10000,4000,40,1.5,1.2,70,8,85,20,9,32,1200000
+Caribe,Atlántico,Luruaco,15000,3000,20,1,1,50,2,55,5,6,27,700000
+Caribe,Bolívar,San Pablo,15000,2000,13,1,1,45,2,50,5,5,26,600000
+Caribe,Cesar,El Copey,10000,1000,10,1,1,40,1,45,5,5,26,500000
+Caribe,Córdoba,Puerto Escondido,15000,2000,13,1,1,45,2,50,5,5,26,600000
+Insular,San Andrés,Serrana Bank,10,5,50,2,2,70,10,80,25,9,30,1200000
+Insular,Providencia,Quitasueño Bank,10,5,50,2,2,70,10,80,25,9,30,1200000
+Orinoquía,Arauca,Fortul,20000,3000,15,1,1,45,2,50,5,6,27,600000
+Orinoquía,Casanare,Hato Corozal,20000,3000,15,1,1,45,2,50,5,6,27,600000
+Orinoquía,Meta,Granada,40000,5000,13,1,1,40,1,45,5,5,26,500000
+Pacífica,Cauca,Bolivar,10000,1500,15,1,1,45,2,50,5,6,27,600000
+Pacífica,Chocó,Juradó,2000,300,15,1,1,40,1,45,5,5,26,500000
+Pacífica,Nariño,Samaniego,15000,2000,13,1,1,45,2,50,5,5,26,600000
+Amazonía,Amazonas,Puerto Alegría,500,50,10,1,1,35,1,40,5,4,25,400000
+Amazonía,Caquetá,Belén de los Andaquies,5000,500,10,1,1,40,1,45,5,5,26,500000
+Amazonía,Putumayo,Orito,10000,800,8,1,1,35,1,40,5,4,25,400000
+Amazonía,Vaupés,Taraira,200,20,10,1,1,30,1,35,3,4,24,300000
+Andina,Antioquia,Girardota,100000,25000,25,1.2,1,60,5,70,15,8,30,900000
+Andina,Boyacá,Santa Sofía,5000,800,16,1,1,45,2,50,5,6,27,600000
+Andina,Caldas,Salamina,40000,10000,25,1.2,1,60,5,70,15,8,30,800000
+Andina,Cundinamarca,Cajicá,50000,20000,40,1.5,1.2,70,8,85,20,9,32,1200000
+Caribe,Atlántico,Usiacurí,20000,3000,15,1,1,45,2,50,5,6,27,600000
+Caribe,Bolívar,San Juan Nepomuceno,30000,4000,13,1,1,40,1,45,5,5,26,500000
+Caribe,Cesar,La Jagua de Ibirico,20000,2000,10,1,1,40,1,45,5,5,26,500000
+Caribe,Córdoba,Montelíbano,50000,10000,20,1,1,50,2,55,5,6,27,700000
+Insular,San Andrés,Johnny Cay,50,5,100,2,2,70,10,80,25,9,30,1200000
+Insular,Providencia,Roncador Cay,10,5,50,2,2,70,10,80,25,9,30,1200000
+Orinoquía,Arauca,Arauquita,30000,4000,13,1,1,40,1,45,5,5,26,500000
+Orinoquía,Casanare,Tauramena,20000,3000,15,1,1,45,2,50,5,6,27,600000
+Orinoquía,Meta,San Martín,40000,5000,13,1,1,40,1,45,5,5,26,500000
+Pacífica,Cauca,Caloto,25000,2000,8,1,1,35,1,40,5,4,25,400000
+Pacífica,Chocó,Bahía Solano,5000,400,8,1,1,35,1,40,5,4,25,400000
+Pacífica,Nariño,La Unión,25000,3000,12,1,1,40,1,45,5,5,26,500000
