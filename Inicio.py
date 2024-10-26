@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Cargar los datos del CSV
-df = pd.read_csv("static\datos_tecnologia_co.csv")
+df = pd.read_csv("./static/datos_tecnologia_co.csv")
 
 # Título de la aplicación
 st.title("Análisis de Penetración de Internet en Colombia")
